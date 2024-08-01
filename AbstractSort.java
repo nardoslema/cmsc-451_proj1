@@ -1,7 +1,7 @@
 package com.example.cmsc45111;
 
 /*
-Matt Gregorek Project 1 CMSC451 June 13, 2023
+ Project 1 CMSC451 June 13, 2023
 Abstract Class AbstractSort will hold objects to be used
 by both BubbleSort and MergeSort algorithm Classes, via "extend" .
  */
