@@ -1,11 +1,10 @@
 package com.example.cmsc45111;
 
 /*
- Project 1 CMSC451 June 13, 2023
-Abstract Class AbstractSort will hold objects to be used
-by both BubbleSort and MergeSort algorithm Classes, via "extend" .
- */
+Nardos Lemma Project One
+July 9, 2023
 
+ */
 public abstract class AbstractSort {
     protected long startingTime;
     protected int count;
